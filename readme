@@ -1,0 +1,7 @@
+Project Overview:
+Title: AI-Powered Text Summarizer
+Description: A web application that takes long text input and uses AI to generate a short, concise summary. This highlights your ability to work with NLP, AI models, and web development.
+Tech Stack: Python, Flask (or FastAPI), Hugging Face Transformers, HTML/CSS, JavaScript.
+
+Dependencies:
+pip install flask transformers torch
